@@ -1,0 +1,2 @@
+put unchecked tokens into unchecked.txt
+then, launch the checker and wait.
